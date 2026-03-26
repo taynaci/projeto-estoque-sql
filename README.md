@@ -36,6 +36,17 @@ Desenvolvi este projeto para praticar controle de estoque utilizando banco de da
 
 Projeto desenvolvido para portfólio com foco em oportunidades na área de tecnologia.
 
+-> Exemplo de resultado
+
+| produto   | entrada | saida | saldo |
+|----------|--------|------|-------|
+| Notebook | 5      | 2    | 13    |
+| Mouse    | 10     | 5    | 55    |
+| Teclado  | 0      | 0    | 30    |
+
+
+
+
 -> Autora
 
-(seu nome aqui)
+Tayná Ciribelle
